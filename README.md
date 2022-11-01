@@ -1,2 +1,2 @@
 # Curriculum Vitae
-https://edagrdz.github.io/cv/
+https://edagrdz.github.io/CV/
